@@ -2,7 +2,7 @@ def counting_nucleotides(dataset):
     st = dataset.upper()
     return st.count('A'), st.count('C'), st.count('G'), st.count('T')
 
-test 2
+
 
 def rna(s):
     if s == 'T':
