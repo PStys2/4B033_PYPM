@@ -34,6 +34,7 @@ print('C: ' + ' '.join(str(e) for e in profile[1]))
 print('G: ' + ' '.join(str(e) for e in profile[2]))
 print('T: ' + ' '.join(str(e) for e in profile[3]))
 
+
 # dataset = open('Rosalind/00- datasets/rosalind_grph.txt').read()
 # for edge in pypm.overlap_graph(dataset, 3):
 #     print(edge[0] + " " + edge[1])
